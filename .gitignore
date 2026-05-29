@@ -1,0 +1,13 @@
+# ZIP files
+*.zip
+
+# Prompt files
+prompt*.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude
+.claude/
