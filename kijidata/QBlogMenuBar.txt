@@ -1,0 +1,12 @@
+
+* 最新の記事 [#xf3bdb05]
+#qblog_recent(5)
+
+* カテゴリ [#pc6d2d34]
+#qblog_category
+
+* 最近のコメント [#t98a50d4]
+#qblog_recent_comments
+
+* ブログ　アーカイブ [#a2cff095]
+#qblog_archives

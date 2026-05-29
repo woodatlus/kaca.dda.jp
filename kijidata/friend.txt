@@ -1,0 +1,23 @@
+#layout(landing)
+
+
+
+* 香珈珈琲フレンドシップ [#n3278d6d]
+
+登録ありがとうございます。
+
+LINEでは香珈珈琲の楽しい情報を発信しています。
+LINEにも是非ご登録下さい
+CENTER:
+
+#html{{
+<center>
+<a href="https://line.me/R/ti/p/%40duh2876a"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
+
+}}
+
+
+
+[[LINE登録する>https://line.me/R/ti/p/%40duh2876a]]
+
+珈琲ライフをお楽しみ下さい。

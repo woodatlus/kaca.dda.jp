@@ -1,0 +1,20 @@
+#description(コーヒーと相性のいい食べものを紹介します。甘いものはもちろん、パンや焼き菓子などその時の気分で味わっています。)
+FREETITLE:コーヒーに合う食べ物を探して色々なところへ出かけました。
+#layout(nomenu)
+#eyecatch(bgvideo=auto-nfGw6l.mp4,chocolate01.jpg,page){{
+// アイキャッチをページ全体で表示します。高さを指定したい場合は、page を 500 など高さに変更してください。
+// 「!」を使うと、大見出し（h1タグ）が挿入されます
+&deco(b,,,30){コーヒーと合う食べ物};
+
+* Another coffee
+
+}}
+* コーヒーの似合う食べ物 [#acc960a6]
+
+私たちが毎日飲んでするコーヒーも、その時の気分や食べるものによってコーヒーにも変化があります。この変化もコーヒーの楽しみでもあります。
+
+#includex(LaMystere,num=10:19,titlestr=off,permalink=続きを読む)
+
+#include(:cta,notitle)
+
+&tag(ひとりごと);

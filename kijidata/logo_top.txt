@@ -1,0 +1,12 @@
+* logo_top [#pf1ad829]
+
+#beforescript{{
+<style type="text/css">
+<!--
+#logo_text{
+height: 250px;
+background-image:url("swfu/d/pen_logo.jpg");
+}
+-->
+</style>
+}}

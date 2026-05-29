@@ -1,0 +1,19 @@
+* メンバー登録完了 [#a153f73f]
+
+香珈コーヒー土曜日店内無料メンバーへの登録わしました。
+メールをお送りしましたのでご確認下さい。
+来店時にメンバー登録したことをお知らせ下さい。
+
+ご来店をお待ちしています。
+
+CENTER:
+&deco(b,#119E5F,,){香珈の秘密はLINEでもお届けしています。};
+#html{{
+<center>
+<a href="https://line.me/R/ti/p/%40duh2876a"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
+</center>
+}}
+CENTER:
+是非、LINEにも登録ください。
+RIGHT:
+香珈コーヒー店主

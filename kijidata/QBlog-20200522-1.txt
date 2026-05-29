@@ -1,0 +1,16 @@
+TITLE:香珈珈琲の焙煎教室
+香珈珈琲では、焙煎教室を行っています。
+ここ最近では開催できていません。
+
+そこで、焙煎教室の資料の一部を公開します。
+
+
+#html{{
+
+<div style="position: relative; padding-bottom: 66.66666666666666%; height: 0;"><iframe src="https://www.loom.com/embed/7ab135c048ba41c598a3dd08555be444" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+}}
+
+
+***フレンドシップまだの方は是非 [#g65de071]
+#include(:ctaf,notitle)

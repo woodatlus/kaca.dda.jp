@@ -1,0 +1,57 @@
+#layout(landing)
+
+
+* G1list [#p49a2798]
+まだ販売していない絹
+
+#cols{{
+
+&show(auto-v2LxDO.jpeg,,G1 - 1);
+
+====
+
+G1　4つ　上から
+販売価格
+A 30,000予定
+B 30,000予定
+C 未定　相談
+D 未定　相談
+
+}}
+&br;
+#cols{{
+
+&show(auto-fTc6uN.jpeg,,G1 - 2);
+
+====
+
+G1　4つ　正面から
+A シールなし
+B ハンドル少しガタアリ
+
+}}
+&br;
+#cols{{
+
+&show(auto-Vu3QCQ.jpeg,,G1 - 3);
+
+====
+
+G1　ふた開け　AB
+ABともB級
+
+}}
+&br;
+#cols{{
+
+&show(auto-Ifu1DR.jpeg,,G1 - 4);
+
+====
+
+G1　ふた開け　CD
+C 程度良い
+Dはフランスからで未使用とのことで仕入れ
+(未使用かは不明程度は良い)
+
+}}
+&br;&br;&br;&br;&br;&br;&br;&br;

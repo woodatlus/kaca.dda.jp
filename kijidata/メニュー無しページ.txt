@@ -1,0 +1,12 @@
+#beforescript{{
+<style type="text/css">
+<!--
+#wrap_content {
+width:100%;
+}
+#wrap_sidebar {
+width:0%;
+}
+-->
+</style>
+}}

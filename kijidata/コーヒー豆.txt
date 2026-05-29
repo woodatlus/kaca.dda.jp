@@ -1,0 +1,19 @@
+#layout(nomenu)
+* コーヒー豆 [#nd2bd771]
+#includex(さくらブルボン,num=1:4,titlestr=off,permalink=続きを読む)
+
+#includex(アフリカ産コーヒーのカッピング,num=1:4,titlestr=off,permalink=続きを読む)
+
+#style2(style=width:26%;float:left;text-align:left;margin-left:45px;){{
+[[&show(G1_310.jpg,,プジョーG1);>プジョーG1]]
+[[プジョーG1に魅せられて>プジョーG1]]
+}}
+#style2(style=width:26%;float:left;text-align:left;margin-left:30px){{
+[[&show(tezumi310.jpg,nolink,お勧めコーヒー);>お勧め]]
+[[今月のお勧めコーヒーです。>お勧め]]
+}}
+#style2(style=width:26%;float:left;text-align:left;margin-left:30px){{
+[[&show(shimasako31001.jpg,nolink,下迫商店);>香珈物語]]
+[[香珈物語>香珈物語]]
+}}
+#clear

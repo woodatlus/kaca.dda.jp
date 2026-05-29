@@ -1,0 +1,61 @@
+#layout(nomenu)
+* G1販売 [#nde8e112]
+''メンテナンス済みでの販売です''。
+Shipping Japan only
+It can not be sent overseas.
+
+**メタリックG1 [#w649d536]
+&deco(b,red,,22){販売中};
+&show(auto-FanSJF.jpg,,G1 - 01);
+
+&show(auto-kDoILk.jpg,,G1 - Imgur);
+
+
+#cols{{
+
+&show(auto-OGSwAk.jpg,,G1 - Imgur (1));
+
+====
+
+&show(auto-yoL7kF.jpg,,G1 - Imgur (2));
+
+====
+
+&show(auto-MSFIyj.jpg,,G1 - Imgur (3));
+
+}}
+
+
+
+
+**無塗装G1 [#o72a6706]
+
+&deco(b,red,,22){sold out};
+&show(pG1.jpg,lightbox2=group,50%,プジョーG1);
+いろいろなG1を見てきましたが、これは未塗装のものと思われます。
+希少品ですね。やや、蓋の開け閉めがきつめです。
+&show(20151027_004239000_iOS.png,lightbox2=group,50%,プジョーG1);&show(20151027_004533000_iOS.png,lightbox2=group,50%,プジョーG1);
+
+&show(20151027_004544000_iOS.png,lightbox2=group,50%,プジョーG1);&show(20151027_004558000_iOS.png,lightbox2=group,50%,プジョーG1);
+
+&show(20151027_004919000_iOS.png,lightbox2=group,50%,プジョーG1);&show(20151027_004846000_iOS.png,lightbox2=group,50%,プジョーG1);
+上からの形が綺麗ですね。こんなところが好きです。
+
+&show(20151027_005315000_iOS.png,lightbox2=group,50%,プジョーG1);&show(20151027_005636000_iOS.png,lightbox2=group,50%,プジョーG1);
+機能的にもちゃんと挽くことができます。
+使用品ですので、それなりの古さがありますのでご理解の方のみご購入下さい。
+
+
+//[[特定商取引法に関する法律に基づく表示>Hanbaihou]]
+//***It can not be sent overseas. [#z2a4c192]
+//#html{{
+//<p>販売価格は28,000円+送料1,000円です。</p>
+//<p>今すぐクリックして下さい。</p>
+//<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+//<input type="hidden" name="cmd" value="_s-xclick"><br />
+//<input type="hidden" name="hosted_button_id" value="X7PMY24SMCV22"><br />
+//<input type="image" src="https://www.paypalobjects.com/ja_JP/JP/i/btn/btn_buynowCC_LG.gif" border="0" //name="submit" alt="PayPal - オンラインでより安全・簡単にお支払い"><br />
+//<img alt="" border="0" src="https://www.paypalobjects.com/ja_JP/i/scr/pixel.gif" width="1" height="1"><br />
+//</form>
+//}}
+RIGHT:コーヒー専門店　香珈

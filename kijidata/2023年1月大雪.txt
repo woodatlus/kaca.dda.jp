@@ -1,0 +1,6 @@
+#layout(nomenu)
+
+* 2023年1月大雪 [#s6ec96e4]
+#html{{
+<iframe src="https://player.vimeo.com/video/793371708?h=f434e960c9" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+}}

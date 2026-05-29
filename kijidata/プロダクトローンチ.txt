@@ -1,0 +1,12 @@
+* プロダクトローンチ [#w74df8ef]
+
+資料&dlbutton(swfu/d/ProductLaunchSheet.pdf);
+
+
+#JPlayer(style=black){{
+イントロ1,katsuo/epl_pl_1_intro.mp3,画像ファイル名1
+知識編2,katsuo/epl_pl_2_way.mp3,画像ファイル名2
+キーコンセプト1,katsuo/epl_pl_3_keyconcept.mp3,画像ファイル名3
+キーコンセプト2,katsuo/epl_pl_4_keyconcept.mp3,画像ファイル名3
+シナリオづくり,katsuo/epl_pl_5_4phase.mp3,画像ファイル名3
+}}

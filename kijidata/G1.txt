@@ -1,0 +1,37 @@
+#description(香珈コーヒーでは、毎日飲むコーヒーだから大切にしたい体に優しいコーヒーのために考えるコーヒーがここにあります。)
+FREETITLE:プジョーG1の動画
+#layout(nomenu)* プジョーミル [#ae314144]
+
+#cols{{
+
+&show(G1001_1.jpeg,,画像の説明);
+&show(G1002_1.jpeg,,画像の説明);
+&show(G1003_1.jpeg,,画像の説明);
+&show(G1004_1.jpeg,,画像の説明);
+
+====
+
+&show(G1005_1.jpeg,,画像の説明);
+&show(G1006_1.jpeg,,画像の説明);
+&show(G1007_1.jpeg,,画像の説明);
+&show(G1008_1.jpeg,,画像の説明);
+
+
+
+
+
+====
+
+&show(G1009_1.jpeg,,画像の説明);
+&show(G1010_1.jpeg,,画像の説明);
+&show(G1011_1.jpeg,,画像の説明);
+&show(G1012_1.jpeg,,画像の説明);
+
+
+}}
+&br;&br;
+#html{{
+
+<iframe src="https://player.vimeo.com/video/888993824?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="G1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+}}

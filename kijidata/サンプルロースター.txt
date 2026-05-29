@@ -1,0 +1,14 @@
+* サンプルロースター [#u7e39e08]
+CENTER:
+&show(unionsanp.png,,画像の説明);
+CENTER:
+#style(class=box_blue_ssm){{
+送料税別　36,000円  香珈特別仕様
+}}
+
+
+#html{{
+<center>
+<a href="https://spike.cc/p/0N30tK5m" class="spike-button" data-code="0N30tK5m" data-button-style="pay_large" data-button-text-key="2">今すぐ購入</a><script src="https://spike.cc/button/v1/button.js" type="text/javascript"></script>
+</center>
+}}

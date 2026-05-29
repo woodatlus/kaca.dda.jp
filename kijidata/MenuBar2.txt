@@ -1,0 +1,9 @@
+#search_menu
+
+#popular(10)
+
+#recent(5)
+
+&yahoobookmark(登録するタイトル);
+
+&addgoogle;

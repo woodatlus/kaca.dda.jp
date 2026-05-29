@@ -1,0 +1,84 @@
+
+* 散歩 [#i72cda65]
+#html{{
+
+<!-- BODYCONTENTS START -->
+
+<div id="qblog"><div id="qblog_list" class="qblog-list qblog-list-table">
+    <div class="row">
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20161030-1&amp;mode=category&amp;catname=%E6%95%A3%E6%AD%A9">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/tarumari01.png)">
+          <div class="qblog_date">2016.10.30</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">タルマーリー訪問</h3>
+        </div>
+  	  </a>
+    </div>
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20160605-1&amp;mode=category&amp;catname=%E6%95%A3%E6%AD%A9">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/okayamauno.jpg)">
+          <div class="qblog_date">2016.06.05</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">珈琲への情熱と経験</h3>
+        </div>
+  	  </a>
+    </div>
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20160526-1&amp;mode=category&amp;catname=%E6%95%A3%E6%AD%A9">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/yakiya01.jpg)">
+          <div class="qblog_date">2016.05.26</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">岡山の石窯パン「焼き屋」「雪ボーロ」訪問</h3>
+        </div>
+  	  </a>
+    </div>
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20160522-1&amp;mode=category&amp;catname=%E6%95%A3%E6%AD%A9">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/betafumizaka.jpg)">
+          <div class="qblog_date">2016.05.22</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">山陰のコーヒーショップ訪問</h3>
+        </div>
+  	  </a>
+    </div>
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20160325-1&amp;mode=category&amp;catname=%E6%95%A3%E6%AD%A9">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/20160324_024420000_iOS.JPG)">
+          <div class="qblog_date">2016.03.25</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">麻婆丼のお勧め</h3>
+        </div>
+  	  </a>
+    </div>
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20151024-1&amp;mode=category&amp;catname=%E6%95%A3%E6%AD%A9">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/miyajima201510.jpg)">
+          <div class="qblog_date">2015.10.24</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">宮島の紅葉</h3>
+        </div>
+  	  </a>
+    </div>
+    </div>
+  
+    
+    <ul class="pagination">
+    </ul>
+  
+</div>
+</div>
+
+
+
+<!-- BODYCONTENTS END -->
+
+
+
+}}

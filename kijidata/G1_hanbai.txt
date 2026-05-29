@@ -1,0 +1,15 @@
+* G1の写真 [#a51e50fa]
+
+&show(G1001.jpeg,,画像の説明);
+&show(G1002.jpeg,,画像の説明);
+&show(G1003.jpeg,,画像の説明);
+&show(G1004.jpeg,,画像の説明);
+&show(G1005.jpeg,,画像の説明);
+&show(G1006.jpeg,,画像の説明);
+&show(G1007.jpeg,,画像の説明);
+&show(G1008.jpeg,,画像の説明);
+&show(G1009.jpeg,,画像の説明);
+&show(G1010.jpeg,,画像の説明);
+&show(G1011.jpeg,,画像の説明);
+&show(G1012.jpeg,,画像の説明);
+&show(G1013.jpeg,,画像の説明);

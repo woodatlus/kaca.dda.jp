@@ -1,0 +1,269 @@
+#layout(nomenu)
+#eyecatch(calm-odayaka.jpg,450,xsbg=kacasumaho41.png){{{{
+#only_pc{{{
+! &deco(#FFF171){珈琲をシンプルにしたら};
+&button(美味しさを求めて){日々の香珈と};
+CENTER:
+&button(friendB,warning,large){''香珈珈琲はフレンドシップ''};
+
+}}}
+#only_mobile(){{{
+! &deco(#FFF171){珈琲をシンプルにしたら};
+CENTER:
+&button(friendB,warning,){''香珈珈琲はフレンドシップ''};
+
+}}}
+
+}}}} 
+//CENTER:
+//[[&deco(b,red,,33){桜ブルボン始めます};>さくらブルボン]]
+//[[&show(auto-ZgAitH.png,,桜ブルボン);>さくらブルボン]]
+
+
+「かかこーひー」と読みます。
+*広島自家焙煎コーヒー　香珈珈琲 [#hb2d59f6]
+
+香珈珈琲は、深煎りのスペシャルティーコーヒー豆専門店です。珈琲はシンプルな飲み物。コーヒーを通して、生活にゆとりと元気を生み出し、笑顔を創ることを目指しています。家族の笑顔、パートナーの笑顔、子供の笑顔、お父さんお母さんの笑顔。いっぱい生み出します。
+ホワイトカップの日を勝手に決めちゃいました。広島コーヒーホワイトカップの日です。これを全国に広めます。
+
+
+----
+
+#cols{{
+CENTER:
+***プジョーG1
+[[&show(G1_310.jpg,wrap,,プジョーG1);>プジョーG1]]
+[[プジョーG1]]に魅せられて
+
+====
+CENTER:
+***今月の珈琲
+[[&show(tezumi310.jpg,,お勧めコーヒー);>お勧め]]
+今月のお勧めコーヒーです。
+
+}}
+
+#cols{{
+CENTER:
+***小さなお店の繁盛日記
+[[&show(shimasako31001.jpg,,下迫商店);>香珈物語]]
+[[香珈物語>香珈物語]]
+
+====
+CENTER:
+***コーヒー豆
+[[&show(Brazil-TEZUMI-5.jpg,,こーひー豆);>コーヒー豆]]
+[[コーヒー豆>コーヒー豆]]のお話
+
+}}
+&br;
+
+
+#cols{{{{
+
+#box(green,4px,double,#efe,){{{
+
+//**2022年12月の営業日
+//2022年10月22日土曜日11:00-17:00
+//
+
+**2025年09月の営業日
+//2025年08月09日日曜日11:00-17:00&deco(b,red,,){日曜日です};
+2025年09月14日土曜日11:00-17:00
+2025年09月28日土曜日11:00-17:00
+
+***LINEでコーヒー
+#html{{
+
+<a href="https://line.me/R/ti/p/%40duh2876a"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
+
+}}
+
+}}}
+
+
+====
+
+#html{{
+
+<iframe src="https://player.vimeo.com/video/723732961?h=0a31797bf3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="氷コーヒー"></iframe>
+
+}}
+[[氷(こおり)出し珈琲の作り方>氷コーヒー]]
+
+
+//#html{{
+
+//<script src="https://fast.wistia.com/embed/medias/so4wpqpd0l.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_so4wpqpd0l seo=false videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/so4wpqpd0l/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+//<div id="bitnami-banner" data-banner-id="373c9">  <style>#bitnami-banner{z-index:100000;height:80px;padding:0;width:120px;background:transparent;position:fixed;right:0;bottom:0;border:0 solid #ededed}#bitnami-banner .bitnami-corner-image-div{position:fixed;right:0;bottom:0;border:0;z-index:100001;height:110px}#bitnami-banner .bitnami-corner-image-div .bitnami-corner-image{position:fixed;right:0;bottom:0;border:0;z-index:100001;height:110px}#bitnami-close-banner-button{height:12px;width:12px;z-index:10000000000;position:fixed;right:5px;bottom:65px;display:none;cursor:pointer}</style>  <img id="bitnami-close-banner-button" alt="Close Bitnami banner" src="swfu/d/close.png" data-pagespeed-url-hash="2468329018" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="display: none;">  <div class="bitnami-corner-image-div">     <a href="https://www.kaca.jp/index.php?friendB" target="_blank" class="">       <img class="bitnami-corner-image" alt="Bitnami" src="swfu/d/corner-logoK.png" data-pagespeed-url-hash="2337105225" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">     </a>  </div>   </div>
+
+//}}
+
+// 上の</div>の前に挿入していた。
+//<script type="text/javascript" src="https://moon.madonna.jp/bitnami/banner.js"></script>
+
+
+
+}}}}
+
+----
+#section(jikabi.jpg,,600,fix){{
+CENTER:
+&show(jikabibaisen.gif,,直火焙煎);
+&br;&br;
+　
+CENTER:
+&show(jikabibaisenwake.gif,,直火式だから、出せる香りがあります。);
+
+}}
+**香珈の焙煎は直火の強火 [#fd05ba88]
+　直火がコーヒーの香りを引き出してくれます。
+　今は、安定的に焙煎できるようになりましたが、
+　10年前はただ焦げているだけの豆でした。
+
+　コーヒーの香りを知ってほしい。
+　コーヒーの香りで素敵な時間をすごしてほしい。
+　
+　少しでも、深入りのコーヒーの味を知ってほしい。
+　コーヒーは冷めていくところに醍醐味があります。
+
+　もしも、香珈のコーヒーで甘みを感じて頂けたらうれしいです。
+
+　広島からコーヒーの楽しみ方を伝えていきます。
+　
+
+#bs_box(panel,default){{
+
+スペシャルコーヒー専門店。家庭で美味しく飲めるコーヒーを目指して、生産地の情報から焙煎、抽出方法など勉強の途中です。プジョーG1ミルで挽いた珈琲ワークショプショップも開催しています。詳しくは''メンバー倶楽部''でお知らせします。
+
+}}
+
+
+CENTER:
+&button(friendB,warning,large){''香珈珈琲はフレンドシップ''};
+
+//#includex(三ノ輪２丁目ネルドリッパー,num=1:9,titlestr=off,permalink=続きを読む)
+
+* 三ノ輪２丁目ネルドリッパー [#qb3f2acd]
+
+#show(minowa011.png,aroundr,50%,三ノ輪２丁目ネルドリッパー)
+小泉硝子製作所は、1912年、小泉重蔵によって創業された特殊なガラス瓶のメーカーです。
+ビーカーやフラスコなど特殊な「理化学医療用ガラス製品」の製造を行っていました。
+創業から100年以上の永い間に培われた「職人の技」は、ホウケイ酸ガラス（耐熱ガラス）を自社内で溶解し多種少量の生産形態で、医療用製品に欠かせない存在であり、その技術を活かしたネルドリッパーなど生活に密着した逸品を創り出しています。[[つづき>三ノ輪２丁目ネルドリッパー]]
+
+
+#cols(8+2){{{{
+
+**香珈の日々
+#qblog_list(6)
+
+//includesが効かない
+//#includex(焙煎,num=1:90,titlestr=off,permalink=焙煎)
+* 焙煎 [#w4717bfb]
+
+
+#html{{
+
+<!-- BODYCONTENTS START -->
+
+<div id="qblog"><div id="qblog_list" class="qblog-list qblog-list-table">
+    <div class="row">
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20160506-1&amp;mode=category&amp;catname=%E7%84%99%E7%85%8E">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/20160505_042644000_iOS.png)">
+          <div class="qblog_date">2016.05.06</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">サンプル焙煎</h3>
+        </div>
+  	  </a>
+    </div>
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20160221-1&amp;mode=category&amp;catname=%E7%84%99%E7%85%8E">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/coffee-660394_640.png)">
+          <div class="qblog_date">2016.02.21</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">オリジナルブレンドの作り方</h3>
+        </div>
+  	  </a>
+    </div>
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20151212-1&amp;mode=category&amp;catname=%E7%84%99%E7%85%8E">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/miruG1.jpg)">
+          <div class="qblog_date">2015.12.12</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">深入り珈琲の話</h3>
+        </div>
+  	  </a>
+    </div>
+    </div>
+  
+    
+    <ul class="pagination">
+    </ul>
+  
+</div>
+</div>
+
+
+
+<!-- BODYCONTENTS END -->
+
+}}
+
+
+}}}}
+&aname(annai);
+#section(coffee-beans.jpg,,100,fix){{
+&deco(b,#FFF171,,22){アクセス};
+
+&deco(#FFF171,,){広島市役所から5分　鷹野橋電停からすぐ};
+[[&show(googlemap1s.png,,地図);>https://goo.gl/maps/E2aWQBLXAUK2]]
+
+CENTER:
+&button(店舗案内,success){詳しいアクセスはこちら};
+}}
+
+
+
+
+*ストレートコーヒー [#e5f1fbde]
+　ストレートコーヒーの魅力は、なんといっても産地ならではの香りや味が楽しめることだと思ってまい。
+
+　どんな場所に育った木なのか、標高はどれくらいでどんな人によって育てられているのか、その場所でしか生まれない味と香りがあります。全世界を旅することは難しいけれど、コーヒーをひとつ一つ味わってみると少し違いがわかってくる。特に、香りはほんとうに違いをよく表しています。
+
+どんな香りが好きなんだろうか、多くのの人のその香りの違いを知ってほしい。そうすると、違ったコーヒーを感じてもらえると思う。
+
+その豆が、ドリップしてどんな味と香りに変わるのだろうか。
+そして、あなたの好きなコーヒーが発見できればとてもうれしいです。
+体調や気分によっても違うかもしれません。
+
+朝のコーヒーも違ってくるかもしれません。
+ゆっくりとした時間で飲むコーヒーも違うかもしれません。
+
+今日は、コロンビアがいいな。
+今は、ガテマラを味わいたいな。
+
+って思えたり、体が求めたりする。
+
+そんな時間を作ってくれるのがストレートコーヒーだと思います。
+
+*　ブレンドコーヒー [#d9e74a35]
+香珈のブレンドの考え方を知ると「邪道」と言われるだろうと思っています。
+今までのブレンドの作り方がいつまでも同じとは限らない、失敗と後戻りの繰り返しで今の自分と比較競争しています。時には、お客様へ聞くこともあります。ダメだしも有ります。香珈のお客様は感じたことを言ってくれます。いい事も悪いこともすべてが正しいと思っています。意見が分かれても正しいと思っています。
+ブレンドはハーモニーでコーヒーを楽しむものだと思っています。コーヒーだけでなく生活とのハーモニーでもあります。さらに、成長というアクセントが入ります。家族が成長すると家族のハーモニーも少しずつ変わってきます。
+コーヒーは生活の一部だからブレンドも少しずつ変わっていくもの、だから楽しい。
+定番のブレンドは十年後の味や香りは今の定番と変わっていると思う。それでも、10年前のお客様が飲んだ時少しでも香珈を感じてくれたらうれしい。
+そんな矛盾の中で香珈のブレンドは成長しています。
+
+
+//#html{{
+
+//<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/54d0c7e831df355c3e7e1954d/bd45e96308d52bc9d3c15786b.js");</script>
+
+//}}
+
+
+&deco(gray,12){a:&counter(total); t:&counter(today); y:&counter(yesterday);};

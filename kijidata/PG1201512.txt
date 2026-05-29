@@ -1,0 +1,14 @@
+* プジョーG1 [#b4b7a4a8]
+
+&show(IMG_0800.jpg,,画像の説明);
+
+&show(IMG_0802.jpg,,画像の説明);
+
+&show(IMG_0801.jpg,,画像の説明);
+
+&show(IMG_0802_1.jpg,,サビ有り);
+
+価格:29,500円(送料1,000円)
+
+
+&button(https://spike.cc/shop/kaca_coffee/products/aFrQCpx7,danger,round){購入ページ};

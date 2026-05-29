@@ -1,0 +1,65 @@
+#layout(landing)
+* お支払い [#s7b354d0]
+
+&deco(b,#C7243A,,32){ご注文ありがとうございました。};
+
+お支払いについてメールをお送りしています。
+こちらからもクレジットでのお支払いが今すぐできます。
+
+
+*ご注文のお支払いをクレジットカードでする場合 [#y1b32c0b]
+
+**クレジットで支払い [#qaa2397f]
+
+
+CENTER:
+2,500円（1セット）
+↓
+#html{{
+<center>
+<div id="paypal-button-container"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=JPY" data-sdk-integration-source="button-factory"></script>
+<script>
+  paypal.Buttons({
+      style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'pay',
+          
+      },
+      createOrder: function(data, actions) {
+          return actions.order.create({
+              purchase_units: [{
+                  amount: {
+                      value: '2500'
+                  }
+              }]
+          });
+      },
+      onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+              alert('Transaction completed by ' + details.payer.name.given_name + '!');
+          });
+      }
+  }).render('#paypal-button-container');
+</script>
+}}
+
+
+
+
+
+
+*ご注文のお支払いを銀行振込でする場合 [#qb1e44fa]
+
+**銀行振り込み口座 [#h262e7a8]
+
+広島銀行　八丁堀支店　普通1103037
+有限会社オフィスグローバル
+
+ご購入代金: 2,500円
+
+手数料は、ご負担下さい。
+
+2セット以上の方は後ほど連絡致します。

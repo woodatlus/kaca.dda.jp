@@ -1,0 +1,37 @@
+* zohoフォームテスト [#q9006021]
+
+
+#html{{
+<div id="zf_div_FICo1qTh3iUDocAcLOMdW84EPXkwyeCvmH80cPDcs38"></div><script type="text/javascript">(function() {
+try{
+var f = document.createElement("iframe");   
+f.src = 'https://forms.zohopublic.com/hitotoba/form/Untitled/formperma/FICo1qTh3iUDocAcLOMdW84EPXkwyeCvmH80cPDcs38?zf_rszfm=1';
+f.style.border="none";                                           
+f.style.height="380px";
+f.style.width="90%";
+f.style.transition="all 0.5s ease";// No I18N
+var d = document.getElementById("zf_div_FICo1qTh3iUDocAcLOMdW84EPXkwyeCvmH80cPDcs38");
+d.appendChild(f);
+window.addEventListener('message', function (){
+var zf_ifrm_data = event.data.split("|");
+var zf_perma = zf_ifrm_data[0];
+var zf_ifrm_ht_nw = ( parseInt(zf_ifrm_data[1], 10) + 15 ) + "px";
+var iframe = document.getElementById("zf_div_FICo1qTh3iUDocAcLOMdW84EPXkwyeCvmH80cPDcs38").getElementsByTagName("iframe")[0];
+if ( (iframe.src).indexOf('formperma') > 0 && (iframe.src).indexOf(zf_perma) > 0 ) {
+var prevIframeHeight = iframe.style.height;
+if ( prevIframeHeight != zf_ifrm_ht_nw ) {
+iframe.style.height = zf_ifrm_ht_nw;
+}   
+}
+}, false);
+}catch(e){}
+})();</script>
+
+}}
+*test [#a278abd6]
+
+#html{{
+
+<script type="text/javascript">function zforms_open_window(url, height, width){var leftPos = 0;var topPos = 0;if(screen){leftPos = (screen.width - width) / 2;topPos = (screen.height - height) / 2;window.open(url, null, 'width='+width+',height='+height+',left='+leftPos+',top='+topPos+', toolbar=0, location=0, status=1, scrollbars=1, resizable=1');}}</script><a href='https://forms.zohopublic.com/hitotoba/form/Untitled/formperma/FICo1qTh3iUDocAcLOMdW84EPXkwyeCvmH80cPDcs38' title="香珈珈琲フレンドシップ" target='_blank' onclick="zforms_open_window(this.href, 648, 700); return false">フォームにアクセス</a>
+
+}}

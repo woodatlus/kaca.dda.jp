@@ -1,0 +1,15 @@
+* アンケート [#y721cd04]
+
+たった３時間で、見違えるぐらい動画が作れるようになります。
+
+
+#vimeo(133432964,220x124)
+
+日程は未定
+参加費　5,000円　コーヒープレゼント付き
+
+#html{{
+
+<iframe src="https://docs.google.com/forms/d/1eqYO4EC83BjQJ64zTkC7V5A2268IvY9RDl1zw0KfOw8/viewform?embedded=true" width="500" height="650" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+
+}}

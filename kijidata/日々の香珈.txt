@@ -1,0 +1,28 @@
+#eyecatch(swfu/d/headerpen001.jpg,200){{
+&deco(b,#FFFFFF,30,){日々の香珈};
+
+}}  
+* 日々の香珈 [#c58ec268]
+
+
+#html{{
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TA3GW_FB4nQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+}}
+
+暮らしの中にコーヒーがあると、
+幸せな時間が過ごせます。
+
+平凡な毎日の中に、幸せを見つけて下さい。
+その幸せに気づいた人が、本当の幸せ者です。
+
+「どんな時にコーヒーが飲みたくなりますか?」
+
+コーヒーの有る生活で豊かな暮らしを''メンバー倶楽部''でお伝えしています。
+
+深入りの美味しさを知ることで人生が変わる。美味しさとは、
+&button(美味しさを求めて,danger,round){美味しさを求めて};
+
+
+#include(memberO,notitle)

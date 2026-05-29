@@ -1,0 +1,5 @@
+*test [#z3ea91eb]
+
+#taglist(ひとりごと)
+
+#includex(散歩,num=1:90,titlestr=off,permalink=散歩)

@@ -1,0 +1,34 @@
+#layout(landing)
+* お客様の声 [#h45b5679]
+
+&deco(b,#C7243A,,32){お客様の声ありがとうございました。};
+
+お支払いについてメールをお送りしています。
+こちらからもクレジットでのお支払いが今すぐできます。
+
+*ご注文のお支払いをクレジットカードでする場合 [#y1b32c0b]
+
+**クレジットで支払い [#qaa2397f]
+
+
+CENTER:
+2,500円（1セット）
+↓
+#html{{
+<center>
+<a href="https://spike.cc/shop/kaca_coffee/products/Me3AFdDG" class="spike-button" data-code="Me3AFdDG" data-button-style="pay_large" data-button-text-key="1">今すぐ支払う</a><script src="https://spike.cc/button/v1/button.js" type="text/javascript"></script>
+</center>
+}}
+
+*ご注文のお支払いを銀行振込でする場合 [#qb1e44fa]
+
+**銀行振り込み口座 [#h262e7a8]
+
+広島銀行　八丁堀支店　普通1103037
+有限会社オフィスグローバル
+
+ご購入代金: 2,500円
+
+手数料は、ご負担下さい。
+
+2セット以上の方は後ほど連絡致します。

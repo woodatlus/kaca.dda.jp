@@ -1,0 +1,79 @@
+#layout(nomenu)
+
+
+* 水出し珈琲の注文 [#v8fcec14]
+
+香珈珈琲の水出し珈琲は、一滴づつ12時間以上かけて抽出しています。
+そのため少量しか抽出できません。
+
+事前にお申込みの方を優先的にお受けしています。
+1本(500cc) 700円
+
+当日のご注文は電話にてお願いします。
+CENTER:
+&button(TEL:090-4103-0058,danger,round){電話する};
+
+後日の受取の場合はこちらのフォームからどうぞ。
+
+#qform(香珈フレンドフォーム){{
+
+text=custom1,お名前,,,need,
+email=メールアドレス
+text=TEL,電話番号,,,need
+select=honsuu,本数,1,注文数を選んで下さい。,1本,2本,3本
+finish_post=https://www.kaca.jp/mag/direct_regist.php,UTF-8,s,mizudchumon,email,<%email%>,custom1,<%custom1%>,custom4,<%honsuu%>,phone,<%TEL%>
+finish_url=https://www.kaca.jp/index.php?go=c7lJwH
+finish_mail=''
+::From::香珈珈琲,info@kaca.jp
+::Subject::<%custom1%>さん、水出し珈琲の注文ありがとうございます。
+<%custom1%> さん
+
+こんにちは。
+香珈珈琲です。
+
+<%custom1%> さん
+水出し珈琲の注文ありがとうございます。
+
+<%all_post_data%>
+
+
+
+---
+香珈珈琲
+info@kaca.jp
+https://www.kaca.jp/
+
+ 
+''
+
+finish_msg=''
+* 水出し珈琲の注文完了
+
+こんにちは。
+<%custom1%> さん
+
+水出し珈琲の注文ありがとうございます。
+
+<%all_post_data%>
+
+''
+
+notice_mail=''
+::Subject::<%custom1%>様から水出し珈琲の注文
+::To::yasu@hgm.jp
+
+水出し珈琲の注文がありました。
+
+---- 内容 ----
+<%all_post_data%>
+
+フォームURL
+<%form_url%>
+
+
+以上
+
+
+''
+
+}}

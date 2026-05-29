@@ -1,0 +1,20 @@
+*メンバー登録完了 [#fef20048]
+
+
+銀座店ご来店ありがとうございます。
+
+広島の小さな焙煎店が銀座で始めて出店しました。
+ご来店を嬉しく思います。
+
+私たちのコーヒーがお口に合えば幸いです。
+
+
+CENTER:
+&deco(b,#119E5F,,){香珈の秘密はLINEでもお届けしています。};
+#html{{
+<center>
+<a href="https://line.me/R/ti/p/%40duh2876a"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
+</center>
+}}
+CENTER:
+是非、LINEにも登録ください。

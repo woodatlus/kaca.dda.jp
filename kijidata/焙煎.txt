@@ -1,0 +1,54 @@
+
+* 焙煎 [#w4717bfb]
+
+
+#html{{
+
+<!-- BODYCONTENTS START -->
+
+<div id="qblog"><div id="qblog_list" class="qblog-list qblog-list-table">
+    <div class="row">
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20160506-1&amp;mode=category&amp;catname=%E7%84%99%E7%85%8E">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/20160505_042644000_iOS.png)">
+          <div class="qblog_date">2016.05.06</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">サンプル焙煎</h3>
+        </div>
+  	  </a>
+    </div>
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20160221-1&amp;mode=category&amp;catname=%E7%84%99%E7%85%8E">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/coffee-660394_640.png)">
+          <div class="qblog_date">2016.02.21</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">オリジナルブレンドの作り方</h3>
+        </div>
+  	  </a>
+    </div>
+      <div class="col-sm-4">
+      <a class="thumbnail qblog-item" href="https://www.kaca.jp/index.php?QBlog-20151212-1&amp;mode=category&amp;catname=%E7%84%99%E7%85%8E">
+        <div class="qblog_thumbnail_box" style="background-image: url(./swfu/d/miruG1.jpg)">
+          <div class="qblog_date">2015.12.12</div>
+        </div>
+        <div class="caption">
+  		<h3 class="qblog_title">深入り珈琲の話</h3>
+        </div>
+  	  </a>
+    </div>
+    </div>
+  
+    
+    <ul class="pagination">
+    </ul>
+  
+</div>
+</div>
+
+
+
+<!-- BODYCONTENTS END -->
+
+}}

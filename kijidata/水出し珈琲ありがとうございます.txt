@@ -1,0 +1,12 @@
+#layout(landing)
+
+* 水出し珈琲のご注文 [#s4c1903a]
+CENTER:
+ありがとうございます。
+
+後ほど、受取方法などご連絡させて頂きます。
+
+&show(waterdrip.png,,水出し珈琲);
+
+CENTER:
+&button(https://www.kaca.jp/,danger,round){ホームページ};

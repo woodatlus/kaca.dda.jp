@@ -1,0 +1,33 @@
+#secret(test8888)
+* G1販売済み001 [#y3f436c9]
+
+メンテナンス済みでの%%販売%%です。
+
+&deco(b,red,,){現在、販売していません。};
+
+仕入れ時は塗装が大きく剥がれ錆びが出ている状態でした。
+&show(G1H001.jpg,lightbox2=group,35%,画像の説明);&show(G1H002.jpg,lightbox2=group,35%,画像の説明);
+
+返品保障付きでの販売とします。(但し、送料はご負担下さい。)
+
+&show(G1H003.jpg,lightbox2=group,35%,画像の説明);&show(G1H004.jpg,lightbox2=group,35%,画像の説明);
+
+&show(G1H005.jpg,lightbox2=group,35%,画像の説明);&show(G1H006.jpg,lightbox2=group,35%,画像の説明);
+すべて分解組み立てできます。
+&show(G1H009.jpg,lightbox2=group,35%,プショーG1);&show(G1H010.jpg,lightbox2=group,35%,プショーG1);
+&show(G1H011.jpg,lightbox2=group,35%,プショーG1);&show(G1H012.jpg,lightbox2=group,35%,プショーG1);
+&show(G1H013.jpg,lightbox2=group,35%,プショーG1);&show(G1H014.jpg,lightbox2=group,35%,プショーG1);
+&show(G1H015.jpg,lightbox2=group,35%,プショーG1);&show(G1H016.jpg,lightbox2=group,35%,プショーG1);
+
+
+#html{{
+<p>販売価格は28,000円+送料です。</p>
+<p>今すぐクリックして下さい。</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick"><br />
+<input type="hidden" name="hosted_button_id" value="X7PMY24SMCV22"><br />
+<input type="image" src="https://www.paypalobjects.com/ja_JP/JP/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - オンラインでより安全・簡単にお支払い"><br />
+<img alt="" border="0" src="https://www.paypalobjects.com/ja_JP/i/scr/pixel.gif" width="1" height="1"><br />
+</form>
+}}
+RIGHT:コーヒー専門店　香珈

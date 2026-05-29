@@ -1,0 +1,78 @@
+#eyecatch(calm-odayaka.jpg,450,xsbg=calm-odayaka.jpg){{{{
+! &deco(#FFF171){珈琲をシンプルにしたら};
+}}}}
+**香珈珈琲メンバーになると [#cd9cb872]
+生活の一部としてのコーヒーを通じて自分らしい生活や働き方を見つけることができます。コーヒーの焙煎やドリップの仕方を楽しく学べるとともに友達が増えます。
+土曜日に店内で飲む珈琲が無料です。
+
+是非、今すぐ登録ください。
+#qform(香珈メンバーフォーム){{
+
+text=custom1,お名前,,,need,
+email=メールアドレス
+finish_post=https://www.kaca.jp/mag/direct_regist.php,UTF-8,s,kacaP,email,<%email%>,custom1,<%custom1%>,lastname,<%custom1%>
+finish_url=https://www.kaca.jp/index.php?go=Jiu8PN
+finish_mail=''
+::From::香珈珈琲,info@kaca.jp
+::Subject::<%custom1%>さん、香珈メンバー登録ありがとうございます。
+<%custom1%> さん
+
+こんにちは。
+香珈珈琲です。
+
+<%custom1%> さん、銀座での出店にご来店頂きありがとうございます。
+
+香珈では、普段手軽に家や職場で飲むコーヒーを楽しんで頂けるために、
+私たちに何ができることを形にして、新しい生活スタイルを提案しています。
+
+そして、<%custom1%> さんの得意を見つけ活かせる場を作れればと思います。
+また、インターネットでは見つけにくい情報や話題も提供しています。
+
+<%custom1%> さんからの情報もお待ちしています。
+
+今日のご縁を嬉しく思います。
+
+---
+香珈珈琲
+info@kaca.jp
+https://www.kaca.jp/
+
+ 
+''
+
+finish_msg=''
+* 香珈メンバー登録の完了
+
+こんにちは。
+<%custom1%> さん
+
+銀座店ご来店ありがとうございます。
+
+広島の小さな焙煎店が銀座で始めて出店しました。
+ご来店を嬉しく思います。
+
+私たちのコーヒーがお口に合えば幸いです。
+
+
+
+''
+
+notice_mail=''
+::Subject::<%custom1%>様から銀座店メンバー登録
+::To::yasu@hgm.jp
+
+銀座店メンバーの登録がありました。
+
+---- 内容 ----
+<%all_post_data%>
+
+フォームURL
+<%form_url%>
+
+
+以上
+
+
+''
+
+}}
