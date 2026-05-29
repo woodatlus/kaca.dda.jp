@@ -11,3 +11,13 @@ prompt*.md
 
 # Claude
 .claude/
+
+# Excluded folders
+fukuoka/
+images2/
+kaca9/
+kacaw/
+katsuo/
+mag/
+old/
+wordprss/
